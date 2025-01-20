@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/parjadminooei/](https://www.linkedin.com/in/parjadminooei/)
 
-- ⚡ Fun fact **I finished Computer Programming analysis**
+- ⚡ Fun fact **I finished Computer Programming Analysis**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
