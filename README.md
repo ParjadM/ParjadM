@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/parjadminooei/](https://www.linkedin.com/in/parjadminooei/)
 
-- ⚡ Fun fact **I'm Currently getting 3.9 CGPA**
+- ⚡ Fun fact **I"m Studying Web Development at Humber**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
