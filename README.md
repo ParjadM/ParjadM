@@ -1,17 +1,11 @@
 # Hi 👋, I'm Parjad Minooei
 ## I'm a Web Developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parjadm&label=Profile%20views&color=0e75b6&style=flat" alt="parjadm" /> </p>
-
-- 🌱 I’m currently learning **Web Development at Humer Polytechnic**
-
-- 👨‍💻 All of my projects are available at [https://github.com/ParjadM](https://github.com/ParjadM)
-
-- 📫 How to reach me **minooeip@hotmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/parjadminooei/](https://www.linkedin.com/in/parjadminooei/)
-
-- ⚡ Fun fact **I finished Computer Programming Analysis**
+I’m currently learning **Web Development at Humer Polytechnic**
+All of my projects are available at [https://github.com/ParjadM](https://github.com/ParjadM)
+How to reach me **minooeip@hotmail.com**
+Know about my experiences [https://www.linkedin.com/in/parjadminooei/](https://www.linkedin.com/in/parjadminooei/)
+Fun fact **I finished Computer Programming Analysis**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
