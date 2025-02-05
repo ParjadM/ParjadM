@@ -14,7 +14,7 @@ How to reach me **minooeip@hotmail.com**.
 Know about my experiences [https://www.linkedin.com/in/parjadminooei/](https://www.linkedin.com/in/parjadminooei/).
 
 
-## Click to send email and connect to my github
+## Click to send email and connect to my github and LinkedIn
 - [Hotmail](minooeip@Hotmail.com)
 - [Github](https://github.com/ParjadM)
 - [LinkedIn](www.linkedin.com/in/parjadminooei)
