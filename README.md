@@ -1,11 +1,11 @@
 # Hi 👋, I'm Parjad Minooei
 ## I'm a Web Developer
 
-I’m currently learning **Web Development at Humer Polytechnic**
-All of my projects are available at [https://github.com/ParjadM](https://github.com/ParjadM)
-How to reach me **minooeip@hotmail.com**
-Know about my experiences [https://www.linkedin.com/in/parjadminooei/](https://www.linkedin.com/in/parjadminooei/)
-Fun fact **I finished Computer Programming Analysis**
+I’m currently learning **Web Development at Humer Polytechnic**.
+All of my projects are available at [https://github.com/ParjadM](https://github.com/ParjadM).
+How to reach me **minooeip@hotmail.com**.
+Know about my experiences [https://www.linkedin.com/in/parjadminooei/](https://www.linkedin.com/in/parjadminooei/).
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
