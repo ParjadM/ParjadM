@@ -22,4 +22,4 @@ Know about my experiences [https://www.linkedin.com/in/parjadminooei/](https://w
 
 ---
 ## Lind to my MarkDown Profile
-- [MDProfile](https://parjadm.github.io/markdown-portfolio/)
+- [MarkDownProfile](https://parjadm.github.io/markdown-portfolio/)
