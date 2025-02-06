@@ -1,5 +1,5 @@
 # Hi 👋, I'm Parjad Minooei!
-## I'm a Web Developer!!
+## I'm a Full-Stack Web Developer!!
 
 
 ---
