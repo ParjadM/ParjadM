@@ -26,7 +26,7 @@ Know about my experiences [https://www.linkedin.com/in/parjadminooei/](https://w
 - [MyUglyTemplate](https://parjadm.github.io/Parjad.github.io/)
 ---
 ```javascript
-var Conclusion = "Have Fun!";
+var Conclusion = "Happy Coding!";
 ```
 ---
 ### Follow me on Github!
