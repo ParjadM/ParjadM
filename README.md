@@ -25,4 +25,10 @@ Know about my experiences [https://www.linkedin.com/in/parjadminooei/](https://w
 - [MarkDownProfile](https://parjadm.github.io/markdown-portfolio/)
 - [MyUglyTemplate](https://parjadm.github.io/Parjad.github.io/)
 ---
+```javascript
+var Conclusion = "Have Fun!";
+```
+---
 ### Follow me on Github!
+
+
