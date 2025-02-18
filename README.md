@@ -30,6 +30,6 @@ Know about my experiences [https://www.linkedin.com/in/parjadminooei/](https://w
 var Conclusion = "Happy Coding!";
 ```
 ---
-### Follow me on Github!
+### Follow me on Github! 👋
 
 
