@@ -33,6 +33,7 @@ var Conclusion = "Happy Coding!";
 ## Work in progress
 1. CodeQuest
 2. Portfolio
+:smile: :rocket: :thumbsup:
 
 ### Follow me on Github! 👋
 
