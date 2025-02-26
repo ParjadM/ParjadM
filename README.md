@@ -31,8 +31,8 @@ var Conclusion = "Happy Coding!";
 ```
 ---
 ## Work in progress
-** Portfolio **
-** CodeQuest **
+**Portfolio**
+**CodeQuest**
 
 ### Follow me on Github! 👋
 
