@@ -20,6 +20,7 @@ Know about my experiences [https://www.linkedin.com/in/parjadminooei/](https://w
 - [LinkedIn](www.linkedin.com/in/parjadminooei)
 
 ## Learning MERN
+![MERN FULL-STACK](./mern.jpg)
 
 
 
