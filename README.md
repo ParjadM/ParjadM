@@ -37,6 +37,7 @@ var Conclusion = "Happy Coding!";
 ## Work in progress!!
 1. CodeQuest
 2. Portfolio
+3. (Simple) Coding From Scratch
 
 **More to come 😄 🚀 👍**
 
