@@ -21,7 +21,7 @@ Know about my experiences [https://www.linkedin.com/in/parjadminooei/](https://w
 
 ## Learning MERN
 ![MERN FULL-STACK](./MERN.jpg)
-![Leetcode](./leetcode.jpg)
+
 
 
 
