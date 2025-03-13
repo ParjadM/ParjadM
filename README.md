@@ -24,6 +24,12 @@ Know about my experiences [https://www.linkedin.com/in/parjadminooei/](https://w
 ![Leetcode](./leetcode.jpg)
 
 
+## Work in progress!!
+1. CodeQuest [Preview](https://www.figma.com/proto/7mKyCOSjw2Tw6mK5HOOvhk/Code_Quest?node-id=0-1&t=bJVmKDXqkSevKebl-1)
+2. Portfolio [Preview](https://www.figma.com/proto/mkytdh3rYm8jHjjTSx35xc/Portfolio-website?node-id=0-1&t=pEST0auRjROKlQWi-1)
+3. (Simple) Coding From Scratch
+
+**More to come 😄 🚀 👍**
 
 ---
 ## Link to my MarkDown Profile
@@ -35,12 +41,7 @@ Know about my experiences [https://www.linkedin.com/in/parjadminooei/](https://w
 var Conclusion = "Happy Coding!";
 ```
 ---
-## Work in progress!!
-1. CodeQuest [Preview](https://www.figma.com/proto/7mKyCOSjw2Tw6mK5HOOvhk/Code_Quest?node-id=0-1&t=bJVmKDXqkSevKebl-1)
-2. Portfolio [Preview](https://www.figma.com/proto/mkytdh3rYm8jHjjTSx35xc/Portfolio-website?node-id=0-1&t=pEST0auRjROKlQWi-1)
-3. (Simple) Coding From Scratch
 
-**More to come 😄 🚀 👍**
 
 
 ### Follow me on Github! 👋
