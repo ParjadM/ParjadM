@@ -29,6 +29,7 @@ Know about my experiences [https://www.linkedin.com/in/parjadminooei/](https://w
 - [MarkDownProfile](https://parjadm.github.io/markdown-portfolio/)
 - [MyUglyTemplate](https://parjadm.github.io/Parjad.github.io/)
 - [AboutMeDeployed](https://parjadm.github.io/aboutme/)
+- [MyFirstBlogPost](https://parjadm.github.io/blog-post/)
 ---
 
 ## Work in progress!!
