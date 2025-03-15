@@ -46,7 +46,6 @@ var Conclusion = "Happy Coding!";
 ---
 
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 ### Follow me on Github! 👋
 
 
