@@ -44,7 +44,9 @@ Know about my experiences [https://www.linkedin.com/in/parjadminooei/](https://w
 var Conclusion = "Happy Coding!";
 ```
 ---
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 ### Follow me on Github! 👋
 
