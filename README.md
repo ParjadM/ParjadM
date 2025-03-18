@@ -15,7 +15,7 @@ Know about my experiences [https://www.linkedin.com/in/parjadminooei/](https://w
 This portofolio was made in markdown!
 ---
 ![Leetcode](./markdown.jpg)
-
+---
 
 ## Click to send email and connect to my github and LinkedIn
 - [Hotmail](minooeip@Hotmail.com)
