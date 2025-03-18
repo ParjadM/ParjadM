@@ -13,6 +13,7 @@ All of my projects are available at [https://github.com/ParjadM](https://github.
 How to reach me **minooeip@hotmail.com**.
 Know about my experiences [https://www.linkedin.com/in/parjadminooei/](https://www.linkedin.com/in/parjadminooei/).
 This portofolio was made in markdown!
+---
 ![Leetcode](./markdown.jpg)
 
 
