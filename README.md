@@ -25,6 +25,7 @@ This portofolio was made in markdown!
 ## Learning MERN
 ![MERN FULL-STACK](./MERN.jpg)
 ![Leetcode](./leetcode.jpg)
+![ASP.Net](./asp.jpg)
 
 
 ---
