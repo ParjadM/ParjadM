@@ -39,6 +39,7 @@ This portofolio was made in markdown!
 1. CodeQuest [Preview](https://www.figma.com/proto/7mKyCOSjw2Tw6mK5HOOvhk/Code_Quest?node-id=0-1&t=bJVmKDXqkSevKebl-1)
 2. Portfolio [Preview](https://parjadm.github.io/Portfolio/)
 3. (Simple) Coding From Scratch
+4. CSS Animation
 
 **More to come 😄 🚀 👍**
 
