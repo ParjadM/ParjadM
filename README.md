@@ -33,13 +33,12 @@ This portofolio was made in markdown!
 - [MarkDownProfile](https://parjadm.github.io/markdown-portfolio/)
 - [MyFirstBlogPost](https://parjadm.github.io/blog-post/)
 - [AboutMeDeployed](https://parjadm.github.io/aboutme/)
-
+- [JavaScriptBookAPI](https://github.com/ParjadM/javascript-API.git)
 ---
 
 ## Work in progress!!
 1. CodeQuest [Preview](https://parjadm.github.io/CodeQuest/)
-2. (Simple) Coding From Scratch
-3. CSS Animation
+2. CSS Animation
 
 **More to come 😄 🚀 👍**
 
