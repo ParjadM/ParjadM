@@ -28,7 +28,8 @@ This portofolio was made in markdown!
 
 
 ---
-## Link to my MarkDown Profile
+## Link to my Project Profile
+- [Portfolio](https://parjadm.github.io/Portfolio/)
 - [MarkDownProfile](https://parjadm.github.io/markdown-portfolio/)
 - [MyFirstBlogPost](https://parjadm.github.io/blog-post/)
 - [AboutMeDeployed](https://parjadm.github.io/aboutme/)
@@ -37,9 +38,8 @@ This portofolio was made in markdown!
 
 ## Work in progress!!
 1. CodeQuest [Preview](https://parjadm.github.io/CodeQuest/)
-2. Portfolio [Preview](https://parjadm.github.io/Portfolio/)
-3. (Simple) Coding From Scratch
-4. CSS Animation
+2. (Simple) Coding From Scratch
+3. CSS Animation
 
 **More to come 😄 🚀 👍**
 
