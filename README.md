@@ -1,3 +1,5 @@
+![Banner](./Banner.jpg)
+
 # Hi 👋, I'm Parjad Minooei!
 ## I'm a Full-Stack Web Developer!!
 
