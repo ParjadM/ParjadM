@@ -35,11 +35,11 @@ This portofolio was made in markdown!
 
 ---
 ## Link to my Project Profile
-- [Portfolio](https://parjadm.github.io/Portfolio/)
-- [MarkDownProfile](https://parjadm.github.io/markdown-portfolio/)
-- [MyFirstBlogPost](https://parjadm.github.io/blog-post/)
-- [AboutMeDeployed](https://parjadm.github.io/aboutme/)
-- [JavaScriptBookAPI](https://github.com/ParjadM/javascript-API.git)
+* **[Portfolio Website](https://parjadm.github.io/Portfolio/)**: My personal portfolio showcasing my skills and projects.
+* **[Markdown Profile](https://parjadm.github.io/markdown-portfolio/)**: The very profile you are looking at! (Built with Markdown).
+* **[My First Blog Post](https://parjadm.github.io/blog-post/)**: An early project exploring web basics.
+* **[About Me Page](https://parjadm.github.io/aboutme/)**: A simple deployed 'About Me' page.
+* **[JavaScript Book API](https://github.com/ParjadM/javascript-API.git)**: An API built using JavaScript.
 ---
 
 ## Work in progress!!
