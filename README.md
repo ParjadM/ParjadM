@@ -23,10 +23,10 @@ This portofolio was made in markdown!
 ![Leetcode](./markdown.jpg)
 ---
 
-## Click to send email and connect to my github and LinkedIn
-- [Hotmail](minooeip@Hotmail.com)
-- [Github](https://github.com/ParjadM)
-- [LinkedIn](www.linkedin.com/in/parjadminooei)
+## 🔗 Connect With Me
+* 📧 [Email Me](mailto:minooeip@hotmail.com)
+* 💼 [LinkedIn](https://www.linkedin.com/in/parjadminooei/)
+* 🐙 [GitHub](https://github.com/ParjadM)
 
 ## Learning MERN
 ![MERN FULL-STACK](./MERN.jpg)
