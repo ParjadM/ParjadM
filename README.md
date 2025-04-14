@@ -7,7 +7,10 @@
 
 ---
 ```javascript
-var Introduction = "Hello World!";
+const greeting = {
+  message: "Hello World!",
+  from: "Parjad"
+};
 ```
 ---
 
@@ -47,7 +50,10 @@ This portofolio was made in markdown!
 
 ---
 ```javascript
-var Conclusion = "Happy Coding!";
+const farewell = {
+  message: "Happy Coding!",
+  status: "Always Learning"
+};
 ```
 ---
 
