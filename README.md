@@ -1,6 +1,6 @@
 ![Banner](./Banner.jpg)
 
-# Hi 👋, I'm Parjad Minooei!
+# Hi there, I'm Parjad Minooei! 👋
 ## I'm a Full-Stack Web Developer!!
 ## I'm Building digital dreams, one pixel at a time.
 
@@ -59,6 +59,6 @@ const farewell = {
 
 <img src="https://komarev.com/ghpvc/?username=ParjadM&style=flat-square&color=blue" alt=""/>
 
-### Follow me on Github! 👋
+### ✨ Follow me on Github! 👋
 
 
