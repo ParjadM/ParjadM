@@ -35,16 +35,16 @@ This portofolio was made in markdown!
 
 ---
 ## Link to my Project Profile
+* **[CodeQuest](https://parjadm.github.io/CodeQuest/)**: A game to test your knowledge.
 * **[Portfolio Website](https://parjadm.github.io/Portfolio/)**: My personal portfolio showcasing my skills and projects.
 * **[Markdown Profile](https://parjadm.github.io/markdown-portfolio/)**: The very profile you are looking at! (Built with Markdown).
 * **[My First Blog Post](https://parjadm.github.io/blog-post/)**: An early project exploring web basics.
 * **[About Me Page](https://parjadm.github.io/aboutme/)**: A simple deployed 'About Me' page.
 * **[JavaScript Book API](https://github.com/ParjadM/javascript-API.git)**: An API built using JavaScript.
----
+
 
 ## Work in progress!!
-1. CodeQuest [Preview](https://parjadm.github.io/CodeQuest/)
-2. CSS Animation
+1. CSS Animation
 
 **More to come 😄 🚀 👍**
 
