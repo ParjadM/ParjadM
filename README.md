@@ -45,7 +45,7 @@ This portofolio was made in markdown!
 
 
 ## Work in progress!!
-* None it's holiday
+* None! it's holiday!!
 
 **More to come 😄 🚀 👍**
 
