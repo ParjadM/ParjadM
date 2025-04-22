@@ -38,8 +38,8 @@ This portofolio was made in markdown!
 * **[CodeQuest](https://parjadm.github.io/CodeQuest/)**: A game to test your JavaScript knowledge.
 * **[Portfolio Website](https://parjadm.github.io/Portfolio/)**: My personal portfolio showcasing my skills and projects.
 * **[CarRace](https://parjadm.github.io/CSS-Animation/)**: My car race
-* **[Markdown Profile](https://parjadm.github.io/markdown-portfolio/)**: The very profile you are looking at! (Built with Markdown).
-* **[My First Blog Post](https://parjadm.github.io/blog-post/)**: An early project exploring web basics.
+* **[Markdown Profile](https://parjadm.github.io/markdown-portfolio/)**: My profile Built using Markdown.
+* **[My First Blog Post](https://parjadm.github.io/blog-post/)**: My "Hello World" blog.
 * **[About Me Page](https://parjadm.github.io/aboutme/)**: A simple deployed 'About Me' page.
 * **[JavaScript Book API](https://github.com/ParjadM/javascript-API.git)**: An API built using JavaScript.
 
