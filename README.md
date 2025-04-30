@@ -49,6 +49,9 @@ This portofolio was made in markdown!
 
 **More to come 😄 🚀 👍**
 
+## News/Updates
+* Continuing education in Monday May 5th
+
 ---
 ```javascript
 const farewell = {
