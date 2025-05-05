@@ -50,7 +50,7 @@ This portofolio was made in markdown!
 **More to come 😄 🚀 👍**
 
 ## News/Updates
-* Continuing education in Monday May 5th
+* Holiday is over soon working on new projects
 
 ---
 ```javascript
