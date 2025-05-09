@@ -50,7 +50,7 @@ This portofolio was made in markdown!
 **More to come 😄 🚀 👍**
 
 ## News/Updates
-* Holiday is over soon working on new projects
+* First Week of class finished soon showcasing new projects that i'll be working on.
 
 ---
 ```javascript
