@@ -45,12 +45,13 @@ This portofolio was made in markdown!
 
 
 ## Work in progress!!
-* Soon! Announcing more Work!
+* **[Binary 1010 Generator](http://binary1010generator.somee.com/)**: Binary 1010 Generator – 1 True & 0 False.
+
 
 **More to come 😄 🚀 👍**
 
 ## News/Updates
-* First Week of class finished soon showcasing new projects that i'll be working on.
+* Work in progress, waiting for approval for more projects to come
 
 ---
 ```javascript
