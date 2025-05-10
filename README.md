@@ -48,10 +48,10 @@ This portofolio was made in markdown!
 * **[Binary 1010 Generator](http://binary1010generator.somee.com/)**: Binary 1010 Generator – 1 True & 0 False.
 
 ## Packages Created
----
+
 In C# You can add the package using: ``dotnet add package BinaryTextGenerator --version 0.1.1``
 **[BinaryTextGenerator](https://www.nuget.org/packages/BinaryTextGenerator)**:
----
+
 
 **More to come 😄 🚀 👍**
 
