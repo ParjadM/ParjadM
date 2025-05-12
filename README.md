@@ -58,7 +58,7 @@ In C# You can add the package using: ``dotnet add package BinaryTextGenerator --
 
 ## News/Updates
 * Work in progress, waiting for approval for more projects to come
-* Available to work, starting septemberm contact me for position if available!
+* Available to work, starting september contact me for position if available!
 
 ---
 ```javascript
