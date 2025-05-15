@@ -50,7 +50,8 @@ This portofolio was made in markdown!
 
 ## Packages Created
 
-In C# You can add the package using: ``dotnet add package BinaryTextGenerator --version 0.4.6``
+In C# You can add the package using: ``dotnet add package BinaryTextGenerator --version 0.5.0``
+* Works Locally only
 * **[BinaryTextGenerator](https://www.nuget.org/packages/BinaryTextGenerator)**
 
 
