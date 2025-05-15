@@ -40,7 +40,6 @@ This portofolio was made in markdown!
 * **[CarRace](https://parjadm.github.io/CSS-Animation/)**: My car race
 * **[Markdown Profile](https://parjadm.github.io/markdown-portfolio/)**: My profile Built using Markdown.
 * **[My First Blog Post](https://parjadm.github.io/blog-post/)**: My "Hello World" blog.
-* **[About Me Page](https://parjadm.github.io/aboutme/)**: A simple deployed 'About Me' page.
 
 
 ## Work in progress!!
