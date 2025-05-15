@@ -41,7 +41,6 @@ This portofolio was made in markdown!
 * **[Markdown Profile](https://parjadm.github.io/markdown-portfolio/)**: My profile Built using Markdown.
 * **[My First Blog Post](https://parjadm.github.io/blog-post/)**: My "Hello World" blog.
 * **[About Me Page](https://parjadm.github.io/aboutme/)**: A simple deployed 'About Me' page.
-* **[JavaScript Book API](https://github.com/ParjadM/javascript-API.git)**: An API built using JavaScript.
 
 
 ## Work in progress!!
