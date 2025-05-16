@@ -31,6 +31,7 @@ This portofolio was made in markdown!
 ## Learning MERN
 ![MERN FULL-STACK](./MERN.jpg)
 ![ASP.Net](./asp.jpg)
+![Laravel](./Laravel.jpg)
 
 
 ---
