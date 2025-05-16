@@ -1,6 +1,6 @@
 ![Banner](./Banner.jpg)
 
-# Hi there, I'm Parjad Minooei! 👋
+# Hi There, I'm Parjad Minooei! 👋
 ## I'm a Full-Stack Web Developer!!
 ## I'm Building digital dreams, one pixel at a time.
 
