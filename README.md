@@ -1,10 +1,10 @@
 ![Banner](./Banner.jpg)
-
+<div align="center">
 # Hi There, I'm Parjad Minooei! 👋
 ## I'm a Full-Stack Web Developer!!
 ## I'm Building digital dreams, one pixel at a time.
 
-
+</div>
 ---
 ```javascript
 const greeting = {
