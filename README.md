@@ -57,7 +57,7 @@ In C# You can add the package using: ``dotnet add package BinaryTextGenerator --
 **More to come 😄 🚀 👍**
 
 ## News/Updates
-* Work in progress, waiting for approval for more projects to come
+* More Projects will come!
 * Available to work, starting september contact me for position if available!
 
 ---
