@@ -70,6 +70,8 @@ const farewell = {
 ---
 
 <img src="https://komarev.com/ghpvc/?username=ParjadM&style=flat-square&color=blue" alt=""/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+
 
 ### ✨ Follow me on Github! 👋
 
