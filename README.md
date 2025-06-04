@@ -60,6 +60,11 @@ In C# You can add the package using: ``dotnet add package BinaryTextGenerator --
 * More Projects will come!
 * Available to work, Starting september contact me for position if available!
 
+
+## Daily jokes
+* Why did the student web developer fail his morning class?
+* Because his sleep function had an infinite loop
+
 ---
 ```javascript
 const farewell = {
