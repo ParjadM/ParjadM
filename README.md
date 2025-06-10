@@ -44,7 +44,6 @@ const greeting = {
 
 ## Work in progress!!
 * **[Binary 1010 Generator](http://binary1010generator.somee.com/)**: Binary 1010 Generator – 1 True & 0 False.
-* **[RapidGames Preview](https://www.figma.com/proto/taxxCsthxBEdl2XScCNfkQ/RapidGames?node-id=0-1&t=AowqGof1qxJR8lcv-1)**: Video Game review Encyclopedia
 
 
 ## Packages Created
