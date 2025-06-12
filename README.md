@@ -62,8 +62,9 @@ In C# You can add the package using: ``dotnet add package BinaryTextGenerator --
 
 
 ## Daily jokes
-* Why do junior devs always feel lost in JavaScript?
-* Because they can’t scope their problems properly!
+* Why did the junior developer break up with their code?
+* Because it just wasn’t responsive enough!
+
 
 
 
