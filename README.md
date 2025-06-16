@@ -13,11 +13,11 @@ const greeting = {
 ```
 ---
 
-### I’m currently learning **Web Development at Humer Polytechnic**.
-### All of my projects are available at [https://github.com/ParjadM](https://github.com/ParjadM).
-### How to reach me **minooeip@hotmail.com**.
-### Know about my experiences [https://www.linkedin.com/in/parjadminooei/](https://www.linkedin.com/in/parjadminooei/).
-### This portofolio was made in markdown!
+#### I’m currently learning **Web Development at Humer Polytechnic**.
+#### All of my projects are available at [https://github.com/ParjadM](https://github.com/ParjadM).
+#### How to reach me **minooeip@hotmail.com**.
+#### Know about my experiences [https://www.linkedin.com/in/parjadminooei/](https://www.linkedin.com/in/parjadminooei/).
+#### This portofolio was made in markdown!
 ---
 ![Leetcode](./markdown.jpg)
 ---
