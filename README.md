@@ -51,7 +51,7 @@ const greeting = {
 
 In C# You can add the package using: ``dotnet add package BinaryTextGenerator --version 0.5.0``
 * :memo: **Note:** Tested Locally only
-* **[BinaryTextGenerator](https://www.nuget.org/packages/BinaryTextGenerator)**
+* **[`BinaryTextGenerator`](https://www.nuget.org/packages/BinaryTextGenerator)**
 
 
 **More to come 😄 🚀 👍**
