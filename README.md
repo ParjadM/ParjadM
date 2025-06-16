@@ -35,7 +35,7 @@ const greeting = {
 
 ---
 ## Link to my Project Profile (refresh to load properly if it didn't work)
-* **[CodeQuest](https://parjadm.github.io/CodeQuest/)**: A game to test your JavaScript knowledge.
+* **[`CodeQuest`](https://parjadm.github.io/CodeQuest/)**: A game to test your JavaScript knowledge.
 * **[Binary 1010 Generator](http://binary1010generator.somee.com/)**: Binary 1010 Generator – 1 True & 0 False.
 * **[Portfolio Website](https://parjadm.github.io/Portfolio/)**: My personal portfolio showcasing my skills and projects. 
 * **[CarRace](https://parjadm.github.io/CSS-Animation/)**: My car race
