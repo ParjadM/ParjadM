@@ -60,8 +60,8 @@ In C# You can add the package using: ``dotnet add package BinaryTextGenerator --
 
 ## Daily jokes
  ```bash
-What does a developer do at the end of a big project?
-He gits committed.
+- Why was the class upset that its parent died?
+Because it wouldn’t be getting the inheritance!
  ```
 
 
