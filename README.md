@@ -62,8 +62,8 @@ In C# You can add the package using: ``dotnet add package BinaryTextGenerator --
 
 ## Daily jokes
  ```bash
-- Why did the web developer go broke?
-Because he kept clearing his cache! 
+* What did the HTML tag say to the CSS?
+* "Stop styling me without consent!"
  ```
 
 
