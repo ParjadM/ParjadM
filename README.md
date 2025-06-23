@@ -80,7 +80,7 @@ const greeting = {
 
 ## 📊 GitHub Contribution Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ParjadM&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ParjadM&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
