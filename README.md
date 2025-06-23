@@ -78,10 +78,6 @@ const greeting = {
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ParjadM&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ParjadM&layout=compact)
 
-## 📊 GitHub Contribution Streak
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ParjadM&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ## 📰 News & Updates
