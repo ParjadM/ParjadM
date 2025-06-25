@@ -90,8 +90,8 @@ const greeting = {
 ## 🎉 Fun
 
 ```bash
-# What did the HTML tag say to the CSS?
-# "Stop styling me without consent!"
+# Why did the web developer leave the restaurant?
+# Because they didn’t like the table layout.
 ```
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
