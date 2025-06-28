@@ -61,7 +61,6 @@ const greeting = {
 - **[Markdown Profile](https://parjadm.github.io/markdown-portfolio/):** Profile built using Markdown.
 - **[My First Blog Post](https://parjadm.github.io/blog-post/):** "Hello World" blog.
 - **[E-commerce](https://simple-e-commerce-s3aj.onrender.com/):** Simple E-Commerce Website.
-- **[Weather Dashboard](https://parjadm.github.io/Weather-Dashboard/):** AI-powered dashboard.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
