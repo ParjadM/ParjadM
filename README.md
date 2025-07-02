@@ -90,8 +90,12 @@ const greeting = {
 ## 🎉 Fun
 
 ```bash
-# - What’s a backend dev’s favorite pickup line?
-# “You had me at 200 OK.”
+# -- Knock knock.
+# -- Who’s there?
+# -- [Recursion]
+# -- [Recursion] who?
+# -- Knock knock.
+
 ```
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
