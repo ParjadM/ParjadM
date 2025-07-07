@@ -90,12 +90,8 @@ const greeting = {
 ## 🎉 Fun
 
 ```bash
-# -- Knock knock.
-# -- Who’s there?
-# -- [Recursion]
-# -- [Recursion] who?
-# -- Knock knock.
-
+- How did the JavaScript developer stay calm?
+- He knew how to 'try' and 'catch' himself.
 ```
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
