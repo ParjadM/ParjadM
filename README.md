@@ -91,10 +91,8 @@ const greeting = {
 ## 🎉 Fun
 
 ```bash
-- Why did the <div> break up with the <span>?
-- Because it needed more space.
-- (…and honestly, the <span> was too inline with its feelings.)
-
+- 🧠 "Why do JavaScript developers always wear glasses?"
+- 👓 Because they don’t C#
 ```
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
