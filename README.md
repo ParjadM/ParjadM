@@ -57,7 +57,7 @@ const greeting = {
 - **[CodeQuest](https://parjadm.github.io/CodeQuest/):** A game to test your JavaScript knowledge.
 - **[Binary 1010 Generator](http://binary1010generator.somee.com/):** 1 True & 0 False generator.
 - **[Portfolio Website](https://parjadm.github.io/Portfolio/):** My personal portfolio.
-- **[CarRace](https://parjadm.github.io/CSS-Animation/):** CSS animation car race.
+- **[SpaceShooter](https://parjadm.github.io/SpaceShooter/):** SpaceShooter
 - **[Markdown Profile](https://parjadm.github.io/markdown-portfolio/):** Profile built using Markdown.
 - **[My First Blog Post](https://parjadm.github.io/blog-post/):** "Hello World" blog.
 - **[E-commerce](https://simple-e-commerce-s3aj.onrender.com/):** Simple E-Commerce Website.
