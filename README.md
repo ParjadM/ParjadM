@@ -91,8 +91,8 @@ const greeting = {
 ## 🎉 Fun
 
 ```bash
-- 🧠 "Why do JavaScript developers always wear glasses?"
-- 👓 Because they don’t C#
+- Why was the JavaScript developer sad?
+- Because he didn't Node how to express himself!
 ```
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
