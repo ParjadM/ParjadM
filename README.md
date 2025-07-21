@@ -1,11 +1,10 @@
-<!-- Gradient SVG Banner -->
+<!-- Professional Banner (replace with your own hosted image if desired) -->
 <p align="center">
-  <img src="https://svgshare.com/i/14rG.svg" width="80%" alt="Gradient Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=Parjad%20Minooei&fontSize=48&fontAlign=50&fontColor=ffffff" width="100%" alt="Professional Gradient Banner"/>
 </p>
 
-<!-- Gradient SVG Text Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F7971E&center=true&vCenter=true&width=600&lines=Welcome+to+My+Colorful+GitHub+Profile!" alt="Gradient Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F7971E&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;MERN+Stack+%7C+ASP.Net+%7C+Laravel;Always+Learning+New+Tech" alt="Typing SVG" />
 </p>
 
 ---
@@ -13,15 +12,11 @@
 <h1 align="center">Hi, I'm Parjad Minooei! 👋</h1>
 <p align="center"><b>Full-Stack Web Developer</b><br/>Building digital dreams, one pixel at a time.</p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" alt="Coding GIF"/>
-</p>
-
 ---
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-## 🚀 <img src="https://img.icons8.com/color/48/000000/rocket--v1.png" width="28"/> About Me
+## 🚀 About Me
 
 - 🎓 Studying **Web Development at Humber Polytechnic**
 - 💻 Passionate about building web apps and learning new technologies
@@ -29,7 +24,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-## 🛠️ <img src="https://img.icons8.com/color/48/000000/maintenance.png" width="28"/> Skills
+## 🛠️ Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/MERN-Stack-3C873A?style=for-the-badge&logo=react&logoColor=white" />
@@ -41,7 +36,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-## 🧰 <img src="https://img.icons8.com/color/48/000000/toolbox.png" width="28"/> Tech Stack
+## 🧰 Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -57,7 +52,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-## 🌐 <img src="https://img.icons8.com/color/48/000000/internet--v1.png" width="28"/> Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="mailto:minooeip@hotmail.com"><img src="https://img.shields.io/badge/Email-minooeip@hotmail.com-FF6F00?style=flat-square&logo=gmail&logoColor=white"></a>
@@ -67,7 +62,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-## 🏆 <img src="https://img.icons8.com/color/48/000000/prize.png" width="28"/> Featured Projects
+## 🏆 Featured Projects
 
 <table>
   <tr>
@@ -119,7 +114,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-## 📦 <img src="https://img.icons8.com/color/48/000000/box.png" width="28"/> Packages
+## 📦 Packages
 
 - **[BinaryTextGenerator](https://www.nuget.org/packages/BinaryTextGenerator):**  
   `dotnet add package BinaryTextGenerator --version 0.5.0`  
@@ -127,7 +122,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-## 📈 <img src="https://img.icons8.com/color/48/000000/combo-chart--v1.png" width="28"/> GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ParjadM&show_icons=true&theme=gruvbox" />
@@ -138,7 +133,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-## 📰 <img src="https://img.icons8.com/color/48/000000/news.png" width="28"/> News & Updates
+## 📰 News & Updates
 
 - 🚀 More projects coming soon!
 - 💼 Available for work starting September—contact me for opportunities
@@ -147,11 +142,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 <details>
-  <summary>🎉 <img src="https://img.icons8.com/color/48/000000/confetti.png" width="24"/> Fun</summary>
-
-  <p align="center">
-    <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200" alt="Fun GIF"/>
-  </p>
+  <summary>🎉 Fun</summary>
 
   ```bash
   - Why was the JavaScript developer sad?
@@ -161,7 +152,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-> <img src="https://img.icons8.com/color/48/000000/idea.png" width="24"/> <b>"Happy Coding! Always Learning."</b> <img src="https://img.shields.io/badge/Keep%20Smiling-F7971E?style=flat-square"/>
+> <b>"Happy Coding! Always Learning."</b> <img src="https://img.shields.io/badge/Keep%20Smiling-F7971E?style=flat-square"/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ParjadM&style=flat-square&color=blue" alt="Profile views"/>
