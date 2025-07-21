@@ -1,115 +1,84 @@
-![Banner](./Banner.jpg)
+<div align="center">
+  <a href="https://github.com/ParjadM">
+    <img src="Banner.jpg" alt="Banner Image - A cool graphic with your name and title" width="100%"/>
+  </a>
 
-# Hi, I'm Parjad Minooei! 👋
+  <h1>Hi, I'm Parjad Minooei! 👋</h1>
+  <h3>A Full-Stack Web Developer from Toronto, ON 🇨🇦</h3>
+  <p><i>Building digital dreams, one line of code at a time.</i></p>
 
-**Full-Stack Web Developer**  
-_Building digital dreams, one pixel at a time._
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-```javascript
-const greeting = {
-  message: "Hello World!",
-  from: "Parjad"
-};
-```
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-## 🚀 About Me
-
-- 🎓 Currently studying **Web Development at Humer Polytechnic**
-- 💻 Passionate about building web apps and learning new technologies
-- 🛠️ Working with **MERN**, **ASP.Net**, **Laravel**, and more
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-## 🛠️ Skills
-
-![MERN FULL-STACK](./MERN.jpg)
-![ASP.Net](./asp.jpg)
-![Laravel](./Laravel.jpg)
-
-## 🧰 Tech Stack
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white)
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-## 🌐 Connect With Me
-
-[![Email](https://img.shields.io/badge/Email-minooeip@hotmail.com-blue?style=flat-square&logo=gmail)](mailto:minooeip@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ParjadMinooei-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/parjadminooei/)
-[![GitHub](https://img.shields.io/badge/GitHub-ParjadM-black?style=flat-square&logo=github)](https://github.com/ParjadM)
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-## 🏆 Featured Projects
-
-- **[CodeQuest](https://parjadm.github.io/CodeQuest/):** A game to test your JavaScript knowledge.
-- **[Binary 1010 Generator](http://binary1010generator.somee.com/):** 1 True & 0 False generator.
-- **[Portfolio Website](https://parjadm.github.io/Portfolio/):** My personal portfolio.
-- **[SpaceShooter](https://parjadm.github.io/SpaceShooter/):** SpaceShooter
-- **[Markdown Profile](https://parjadm.github.io/markdown-portfolio/):** Profile built using Markdown.
-- **[My First Blog Post](https://parjadm.github.io/blog-post/):** "Hello World" blog.
-- **[E-commerce](https://simple-e-commerce-s3aj.onrender.com/):** Simple E-Commerce Website.
-- **[FinanceCalcuator](https://parjadm.github.io/finance-calculator/):** Finance Calculator.
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-## 📦 Packages
-
-- **[BinaryTextGenerator](https://www.nuget.org/packages/BinaryTextGenerator):**  
-  Add with: `dotnet add package BinaryTextGenerator --version 0.5.0`  
-  _Note: Tested locally only_
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ParjadM&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ParjadM&layout=compact)
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-## 📰 News & Updates
-
-- More projects coming soon!
-- Available for work starting September—contact me for opportunities
-- Trying to learn vibe coding since it's the future! :)
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-## 🎉 Fun
-
-```bash
-- Why was the JavaScript developer sad?
-- Because he didn't Node how to express himself!
-```
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-```javascript
-const farewell = {
-  message: "Happy Coding!",
-  status: "Always Learning"
-};
-```
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-<img src="https://komarev.com/ghpvc/?username=ParjadM&style=flat-square&color=blue" alt="Profile views"/>
+  <a href="https://www.linkedin.com/in/parjadminooei/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/ParjadM"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:minooeip@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
 
 ---
 
-### ✨ Follow me on GitHub! 👋
+<table>
+<tr>
+<td valign="top" width="60%">
 
+### 🚀 About Me
 
+- 🎓 Graduate of **Computer Programming & Analysis** and **Web Development** programs.
+- 💻 Passionate about building full-stack applications and solving complex problems.
+- 🛠️ Currently honing my skills in the **MERN** stack, **ASP.NET Core**, and **Laravel**.
+-  hobbies: I enjoy gaming, playing the piano, and doing math puzzles in my free time!
+- 🌱 I’m currently learning about scalable architectures and cloud deployment.
+- 📫 How to reach me: **minooeip@hotmail.com**
+
+</td>
+<td valign="top" width="40%">
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ParjadM&show_icons=true&theme=dracula&rank_icon=github&hide_border=true" alt="Parjad's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParjadM&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+</p>
+
+</td>
+</tr>
+</table>
+
+### 🧰 Tech Stack
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
+</p>
+
+---
+
+### 🏆 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/ParjadM/CodeQuest">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ParjadM&repo=CodeQuest&theme=dracula&hide_border=true" />
+  </a>
+  <a href="https://github.com/ParjadM/Portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ParjadM&repo=Portfolio&theme=dracula&hide_border=true" />
+  </a>
+  <a href="https://github.com/simple-e-commerce-s3aj.onrender.com/">
+    <img src="https://via.placeholder.com/400x120/282a36/f8f8f2?text=E-Commerce+Site+(Live+Demo)" />
+  </a>
+</p>
+
+<div align="center">
+  <sub>More of my work can be found at <a href="https://github.com/ParjadM?tab=repositories">github.com/ParjadM</a></sub>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ParjadM&style=for-the-badge&color=brightgreen" alt="Profile views"/>
+</div>
