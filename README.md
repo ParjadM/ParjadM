@@ -128,7 +128,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ParjadM&show_icons=true&theme=gruvbox" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParjadM&layout=compact&theme=gruvbox" />
   <img src="https://github-profile-trophy.vercel.app/?username=ParjadM&theme=gruvbox" />
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ParjadM&theme=react-dark" />
+<!--   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ParjadM&theme=react-dark" /> -->
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
