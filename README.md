@@ -91,8 +91,8 @@ const greeting = {
 ## 🎉 Fun
 
 ```bash
-- Why was the JavaScript developer sad?
-- Because he didn't Node how to express himself!
+- Why do web developers dislike nature?
+- Because it has too many bugs!
 ```
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
