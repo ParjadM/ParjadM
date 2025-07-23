@@ -91,8 +91,8 @@ const greeting = {
 ## 🎉 Fun
 
 ```bash
-- Why do web developers dislike nature?
-- Because it has too many bugs!
+- Why do front-end developers always break up with back-end developers?
+- Because they can't commit!
 ```
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
