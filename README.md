@@ -83,7 +83,7 @@ const greeting = {
 ## 📰 News & Updates
 
 - More projects coming soon!
-- Available for work starting September—contact me for opportunities
+- Available for work contact me if you have any opportunities
 - Trying to learn vibe coding since it's the future! :)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
