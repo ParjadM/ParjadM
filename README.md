@@ -91,8 +91,8 @@ const greeting = {
 ## 🎉 Fun
 
 ```bash
-- Why do programmers prefer dark mode?
-- Because light attracts bugs.
+- Why was the JavaScript developer sad?
+- Because they didn't know how to null their feelings.
 ```
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
