@@ -82,7 +82,7 @@ const greeting = {
 
 ## 📰 News & Updates
 
-- More projects coming soon!
+- Working on PixelMarket (Link Will Come Soon For The Repo!)
 - Available for work contact me if you have any opportunities
 - Trying to learn vibe coding since it's the future! :)
 
