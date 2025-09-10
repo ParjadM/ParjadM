@@ -83,6 +83,7 @@ const greeting = {
 ## 📰 News & Updates
 
 - Working on PixelMarket (Link Will Come Soon For The Repo!)
+- Working on Wordpress building a portfolio website.
 - Available for work contact me if you have any opportunities
 - Trying to learn vibe coding since it's the future! :)
 
