@@ -1,6 +1,6 @@
-[Visit GlassGenerator.ca](https://www.glassgenerator.ca/)
-
 ![Banner](./Banner.jpg)
+
+[![Website](https://img.shields.io/badge/Website-GlassGenerator.ca-blue?style=flat-square&logo=google-chrome)](https://www.glassgenerator.ca/)
 
 # Hi, I'm Parjad Minooei! 👋
 
