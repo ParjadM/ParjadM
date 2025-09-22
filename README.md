@@ -84,7 +84,7 @@ const greeting = {
 
 ## 📰 News & Updates
 
-- Working on PixelMarket ![PixelMarket](https://github.com/ParjadM/PixelMarket)
+- Working on PixelMarket [PixelMarket](https://github.com/ParjadM/PixelMarket)
 - Working on Wordpress building a portfolio website.
 - Available for work contact me if you have any opportunities
 - Trying to learn vibe coding since it's the future! :)
