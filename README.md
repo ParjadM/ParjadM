@@ -94,8 +94,8 @@ const greeting = {
 ## 🎉 Fun
 
 ```bash
-- Why was the JavaScript developer sad?
-- Because they didn't know how to null their feelings.
+- Why was the Git commit so cold?
+- Because it didn't have any 'pull' requests.
 ```
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
