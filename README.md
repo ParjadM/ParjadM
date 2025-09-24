@@ -94,8 +94,8 @@ const greeting = {
 ## 🎉 Fun
 
 ```bash
-- Why was the Git commit so cold?
-- Because it didn't have any 'pull' requests.
+- Why did the developer break up with Git?
+- Because he felt like he couldn't commit.
 ```
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
