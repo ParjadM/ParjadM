@@ -94,8 +94,8 @@ const greeting = {
 ## 🎉 Fun
 
 ```bash
-- Why did the developer break up with Git?
-- Because he felt like he couldn't commit.
+- What is a programmer's favorite song?
+- "Hello World" by Lionel Richie.
 ```
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
