@@ -94,8 +94,8 @@ const greeting = {
 ## 🎉 Fun
 
 ```bash
-- What is a programmer's favorite song?
-- "Hello World" by Lionel Richie.
+- Why are LeetCode solutions so good at pointing things out?
+- Because they're full of pointers!
 ```
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
