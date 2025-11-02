@@ -1,6 +1,7 @@
 ![Banner](./Banner.jpg)
 
 [![Website](https://img.shields.io/badge/Website-GlassGenerator.ca-blue?style=flat-square&logo=google-chrome)](https://www.glassgenerator.ca/)
+[![Website](https://img.shields.io/badge/Website-ParjadM.ca-green?style=flat-square&logo=google-chrome)](https://www.ParjadM.ca/)
 
 # Hi, I'm Parjad Minooei! 👋
 
