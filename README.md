@@ -85,7 +85,7 @@ const greeting = {
 
 ## 📰 News & Updates
 
-- Working on PixelMarket As **Capstone** [PixelMarket](https://github.com/ParjadM/PixelMarket)
+
 - Available for work contact me if you have any opportunities
 - Trying to learn vibe coding since it's the future! :)
 - Starting OCT-20th to December 31st 2025 I'll be doing a LeetCode Marathon! look at my repo for updates [DSA Practice](https://github.com/ParjadM/DSA_Practice) Wish me Luck!
