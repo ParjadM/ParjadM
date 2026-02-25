@@ -70,6 +70,8 @@ const greeting = {
 
 ## 📦 Packages
 
+- Good news working on DSAPackage called PurePythonDS
+
 - **[BinaryTextGenerator](https://www.nuget.org/packages/BinaryTextGenerator):**  
   Add with: `dotnet add package BinaryTextGenerator --version 0.5.0`  
   _Note: Tested locally only_
