@@ -21,7 +21,7 @@ const greeting = {
 
 ## 🚀 About Me
 
-- 🎓 Currently studying **Web Development at Humer Polytechnic**
+- 🎓 Graduated studying **Web Development at Humer Polytechnic**
 - 💻 Passionate about building web apps and learning new technologies
 - 🛠️ Working with **MERN**, **ASP.Net**, **Laravel**, and more
 
