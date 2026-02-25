@@ -74,12 +74,6 @@ const greeting = {
   Add with: `dotnet add package BinaryTextGenerator --version 0.5.0`  
   _Note: Tested locally only_
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ParjadM&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ParjadM&layout=compact)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
@@ -87,15 +81,15 @@ const greeting = {
 
 
 - Available for work contact me if you have any opportunities
-- Trying to learn vibe coding since it's the future! :)
+- Trying to learn DSA. 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ## 🎉 Fun
 
 ```bash
-- Why are LeetCode solutions so good at pointing things out?
-- Because they're full of pointers!
+- Why did the developer go broke?
+- Because he used up all his cache 😄
 ```
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
