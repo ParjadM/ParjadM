@@ -3,7 +3,6 @@
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Website-ParjadM.ca-7A1CAC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.parjadm.ca/)
-[![GlassGenerator](https://img.shields.io/badge/Project-GlassGenerator.ca-006BFF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.glassgenerator.ca/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Parjad%20Minooei-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/parjadminooei)
 [![GitHub](https://img.shields.io/badge/GitHub-ParjadM-181717?style=for-the-badge&logo=github)](https://github.com/ParjadM)
 
