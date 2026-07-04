@@ -58,7 +58,7 @@ class Developer:
 
 ## 🏆 Featured Projects & Engineering Work
 
-*   **Log-Quantum Fractal Tree (LQFT):** A custom, high-performance experimental data structure project leveraging a highly optimized **C-engine backend** for granular memory control and algorithmic benchmarking.
+
 *   **[GlassGenerator.ca](https://www.glassgenerator.ca/):** A production-ready utility application tailored for seamless web assets generation.
 *   **[ParjadM.ca](https://www.parjadm.ca/):** My professional engineering portfolio showcasing current architecture highlights and project deep-dives.
 *   **[CodeQuest](https://parjadm.github.io/CodeQuest/):** An interactive gamified platform engineered to put core JavaScript and logical concepts to the test.
