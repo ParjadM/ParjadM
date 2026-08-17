@@ -59,7 +59,6 @@ class Developer:
 ## 🏆 Featured Projects & Engineering Work
 
 
-*   **[GlassGenerator.ca](https://www.glassgenerator.ca/):** A production-ready utility application tailored for seamless web assets generation.
 *   **[ParjadM.ca](https://www.parjadm.ca/):** My professional engineering portfolio showcasing current architecture highlights and project deep-dives.
 *   **[CodeQuest](https://parjadm.github.io/CodeQuest/):** An interactive gamified platform engineered to put core JavaScript and logical concepts to the test.
 
