@@ -2,10 +2,8 @@
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-ParjadM.ca-7A1CAC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.parjadm.ca/)
 [![Website Views](https://img.shields.io/badge/ParjadM.ca_Views-1000%2B-7A1CAC?style=for-the-badge)](https://www.parjadm.ca/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Parjad%20Minooei-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/parjadminooei)
-[![GitHub](https://img.shields.io/badge/GitHub-ParjadM-181717?style=for-the-badge&logo=github)](https://github.com/ParjadM)
 [![GitHub Followers](https://img.shields.io/badge/Followers-100%2B-181717?style=for-the-badge&logo=github)](https://github.com/ParjadM)
 
 </div>
