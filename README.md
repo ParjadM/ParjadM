@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Website Views](https://img.shields.io/badge/ParjadM.ca_Views-1000%2B-7A1CAC?style=for-the-badge)](https://www.parjadm.ca/)
+[![Website Views](https://img.shields.io/badge/ParjadM.ca_Views-3000%2B-7A1CAC?style=for-the-badge)](https://www.parjadm.ca/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Parjad%20Minooei-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/parjadminooei)
 [![GitHub Followers](https://img.shields.io/badge/Followers-100%2B-181717?style=for-the-badge&logo=github)](https://github.com/ParjadM)
 
